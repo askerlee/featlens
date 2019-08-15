@@ -1,1 +1,1 @@
-# transnorm
+# Corrective Lens Layers for Stable Visual Representations
