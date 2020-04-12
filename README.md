@@ -17,3 +17,4 @@ This is the code for the arxiv paper "Feature Lenses: Plug-and-play Neural Modul
 
 8. **lmdbloader.py** The library to load and augment ImageNet LMDB databases.
     
+9. **ranger.py** The ranger optimizer [https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer).
